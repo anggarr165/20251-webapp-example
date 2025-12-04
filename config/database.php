@@ -2,7 +2,7 @@
 class Database {
     private $host = "localhost";
     private $db_name = "test123"; // Ganti dengan DB Anda
-    private $username = "root";          // Ganti dengan user DB Anda
+    private $username = "";          // Ganti dengan user DB Anda
     private $password = "";     // Ganti dengan password DB Anda
     public $conn;
 
