@@ -1,1 +1,1 @@
-Registrasi User 
+$Registrasi  = "User" ;
